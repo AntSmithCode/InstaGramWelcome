@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Pixeboy;
+  src: url(Pixeboy-z8XGD.TTF);
+}
+
+body {
+  background-color: #047adb;
+  text-align: center;
+  color: rgb(241, 226, 3);
+  padding-top: 10em;
+  font-family: Pixeboy;
+}
+
+* {
+  color: rgb(245, 241, 3);
+  text-decoration: none;
+  font-family: Pixeboy;
+}
